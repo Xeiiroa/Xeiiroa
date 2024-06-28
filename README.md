@@ -1,7 +1,7 @@
 ### Welcome to my Github👋
 
 ## 🙋‍♂️ About me
-* Been programming for a little under a year
+* Been programming Since January 2023
 * Currently in school for Computer Science
 * Like to automate and solve problems that I have in my life
 * Always looking for new project ideas and people to collab on projects with
