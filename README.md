@@ -10,7 +10,7 @@
 ## ⌨️ Personal projects
 * [API Resume](https://github.com/Xeiiroa/API-Resume) - My resume converted into an API
 * [Peeps](https://github.com/Xeiiroa/Peeps) - A Security camera script that uses Computer vision to search for movement and records through a webcam
-* [AutoMediaHarvest(WIP)](https://github.com/Xeiiroa/AutoMediaHarvest) - A Personal Script that uses the Google Photos API with Windows task scheduler to import Videos to alternative storage on a schedule
+* [AutoMediaHarvest(WIP)](https://github.com/Xeiiroa/AutoMediaHarvest) - A Personal Script that uses the Google Photos API with Windows task scheduler to import Videos from Google Photos to a local machine on a schedule
 
 
 ## 💻 Languages/Technologies I work/worked with
